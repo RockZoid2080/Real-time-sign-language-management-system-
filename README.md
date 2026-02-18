@@ -1,2 +1,4 @@
 # Real-time-sign-language-management-system-
-For helping people communicate better
+This system helps people to communicate using sign language 
+
+The whole system will be uploaded soon
